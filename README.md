@@ -1,5 +1,5 @@
 # Celebrity Manager
-# UI: ## HomePage
+## HomePage
 ![image](https://github.com/user-attachments/assets/8bcf3607-2139-4f29-a27a-d132272e6bf7)
 ## Detailed
 ![image](https://github.com/user-attachments/assets/9e216074-2ab5-43ed-949b-a7ec946ffec2)
