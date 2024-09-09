@@ -1,6 +1,11 @@
-Here’s a README file for the project based on the description and the provided code:
-
----
+# Celebrity Manager
+# UI:
+## HomePage
+![image](https://github.com/user-attachments/assets/8bcf3607-2139-4f29-a27a-d132272e6bf7)
+## Detailed
+![image](https://github.com/user-attachments/assets/9e216074-2ab5-43ed-949b-a7ec946ffec2)
+## Deleted
+![image](https://github.com/user-attachments/assets/b5e5f6f3-320c-46d4-b70c-efa5c002b724)H
 
 # Celebrity Manager
 
@@ -105,12 +110,4 @@ Happy coding!
 ---
 
 Feel free to adjust the README as needed based on your specific implementation or any additional requirements.
-
-UI:
-#HomePage
-![image](https://github.com/user-attachments/assets/8bcf3607-2139-4f29-a27a-d132272e6bf7)
-#Detailed
-![image](https://github.com/user-attachments/assets/9e216074-2ab5-43ed-949b-a7ec946ffec2)
-#Deleted
-![image](https://github.com/user-attachments/assets/b5e5f6f3-320c-46d4-b70c-efa5c002b724)
 
