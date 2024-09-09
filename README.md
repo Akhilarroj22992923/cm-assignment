@@ -100,7 +100,3 @@ npm start
 
 Happy coding!
 
----
-
-Feel free to adjust the README as needed based on your specific implementation or any additional requirements.
-
