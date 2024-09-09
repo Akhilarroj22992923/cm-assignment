@@ -51,21 +51,15 @@ Welcome to the **Celebrity Manager** project! This application allows you to vie
 
 ## Project Setup
 
-### Step 1: Set Up the Project
-
-Initialize a React project with TypeScript:
-
-```bash
-npx create-react-app celebrity-manager --template typescript
-cd celebrity-manager
-```
+### Step 1: Clone project and install required packages
+Install Nodejs version "v18.17.0"
+Go to the official Node.js website:
+Visit https://nodejs.org.
 
 Install required dependencies:
-
 ```bash
-npm install axios
+npm install
 ```
-
 ### Step 2: Implement Features
 
 1. **Search Bar**:
